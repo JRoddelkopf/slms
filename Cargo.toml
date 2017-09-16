@@ -1,0 +1,9 @@
+[package]
+name = "slms"
+version = "0.1.0"
+authors = ["Jörn Roddelkopf"]
+
+[dependencies]
+chrono = "*"
+lazy_static = "*"
+daemonize="*"
